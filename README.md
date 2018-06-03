@@ -8,11 +8,11 @@ and his website link is down at the moment so I decided to host his program for 
 
 ## Support
 
-I will try to provide support until npupyshev gets back.
+I will try to provide support until npupyshev gets back. If you need support please contact me on [Twitter](https://twitter.com/post_pwn)
 
 ## Issues
 
-Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [Twitter](https://twitter.com/post_pwn)
+Please use the "Issues" tab for **code related** issues only!
 
 ## Contributing
 
