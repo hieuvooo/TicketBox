@@ -1,6 +1,15 @@
 ### [TicketBox](https://postpwn.github.io/ticketbox/) 
 ![demo_img](https://raw.githubusercontent.com/postpwn/ticketbox/gh-pages/img/TicketBox.jpg)
 
+## Author
+
+This is made by [npupyshev](https://twitter.com/npupyshev) he's currently afk 
+and his website link is down at the moment so I decided to host his program for him while he is away.
+
+## Support
+
+I will try to provide support until npupyshev gets back.
+
 ## Issues
 
 Please use the "Issues" tab for **code related** issues only! If you need support please contact me on [Twitter](https://twitter.com/post_pwn)
