@@ -4,7 +4,7 @@
 ## Author
 
 This is made by [npupyshev](https://twitter.com/npupyshev) he's currently afk 
-and his website link is down at the moment so I decided to host his program for him while he is away.
+and his [website link](https://npupyshev.ru/ticketbox/ticketbox_0.5.1_release.dmg) is down at the moment so I decided to host his program for him while he is away.
 
 ## Support
 
