@@ -8,7 +8,7 @@ and his website link is down at the moment so I decided to host his program for 
 
 ## Support
 
-I will try to provide support until npupyshev gets back. If you need support please contact me on [Twitter](https://twitter.com/post_pwn)
+If you need support please contact me on [Twitter](https://twitter.com/post_pwn). I will try to provide support until npupyshev gets back.
 
 ## Issues
 
