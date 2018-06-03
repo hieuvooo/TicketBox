@@ -1,5 +1,5 @@
 ### TicketBox 
-[demo_img](https://raw.githubusercontent.com/postpwn/ticketbox/gh-pages/img/TicketBox.jpg)
+![demo_img](https://raw.githubusercontent.com/postpwn/ticketbox/gh-pages/img/TicketBox.jpg)
 
 ## Issues
 
