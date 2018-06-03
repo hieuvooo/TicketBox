@@ -1,6 +1,6 @@
 # ticketbox
 
-(https://raw.githubusercontent.com/postpwn/ticketbox/gh-pages/img/TicketBox.jpg)
+https://github.com/postpwn/ticketbox/blob/gh-pages/img/TicketBox.jpg
 
 ## Issues
 
