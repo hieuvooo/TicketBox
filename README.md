@@ -1,4 +1,4 @@
-### [TicketBox](https://postpwn.github.io/ticketbox/) 
+### [TicketBox](https://postpwn.github.io/TicketBox/) 
 ![demo_img](https://raw.githubusercontent.com/postpwn/ticketbox/gh-pages/img/TicketBox.jpg)
 
 ## Author
